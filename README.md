@@ -3,8 +3,8 @@
 #### I'm Sulthan Mohaideen 👨‍💻
 
 <!--**SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-- 🔭 I’m currently working on **my own portfolio**
-- 🌱 I’m currently learning the **Full-Stack Development**
+- 🔭 I’m currently working on **Android Development**
+- 🌱 I’m currently learning the **Full-Stack / Android Development**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Anything!, I'm happy to help :v:
