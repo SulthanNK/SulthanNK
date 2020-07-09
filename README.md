@@ -1,8 +1,8 @@
-### Hi there 👋 
+<!--### Hi there 👋 
 
 #### I'm Sulthan Mohaideen 👨‍💻
 
-<!--**SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 - 🔭 I’m currently working on **Android Development**
 - 🌱 I’m currently learning the **Full-Stack / Android Development**
 - 👯 I’m looking to collaborate on ...
