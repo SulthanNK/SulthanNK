@@ -1,7 +1,7 @@
 ## Sulthan Mohaideen 👨‍💻
 [![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
 [![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
-[![Dev Badge](https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk) 
+[![Dev Badge](https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
@@ -14,9 +14,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)  <img align = 'right' src = "https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK">  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
