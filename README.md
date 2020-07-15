@@ -14,16 +14,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)  <img align = 'right' src = "https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK">  
+![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)  
 
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) -->
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
+
 ### Hi there 👋 
 
 **SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
