@@ -18,9 +18,11 @@
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✨ Visitors 
+### ✨ Visitors count
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p> -->
+
+![VisitorCount](https://profile-counter.glitch.me/{SulthanNK}/count.svg)
 
 ### 📊 Profile stats
 
