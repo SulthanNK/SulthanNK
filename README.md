@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" height="220" width="280" src="dev.gif">
+<img align="right" height="210" width="280" src="dev.gif">
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
