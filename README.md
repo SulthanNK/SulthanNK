@@ -17,6 +17,8 @@
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him :innocent:
 
+![](dev.gif)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors count
 
