@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" height="210" width="280" src="dev.gif">
+<img align="right" height="200" width="250" src="dev.gif">
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
@@ -19,6 +19,7 @@
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him :innocent: 
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors count
