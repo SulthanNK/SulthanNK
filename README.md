@@ -9,8 +9,9 @@
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- credits for gif https://giphy.com/izmiragency -->
 
-<img align="right" height="200" width="250" src="dev.gif">
+<img align="right" height="200" width="290" src="dev.gif">
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
