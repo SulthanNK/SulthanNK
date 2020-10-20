@@ -31,19 +31,17 @@
 
 ### 📊 Profile stats
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
+<img align="right" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<img height="180em" width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8"/>
-</details>
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/)-->
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- <details>	
+  <summary><b></b></summary>
+</details>-->
 
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
