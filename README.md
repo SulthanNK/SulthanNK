@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
 
-<img align="right" height="200" width="290" src="dev.gif">
+<img align="right" height="200" width="300" src="dev.gif">
 
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
@@ -31,7 +31,15 @@
 
 ### 📊 Profile stats
 
-[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="180em" width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8"/>
+</details>
+
+
+<!--[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/)-->
 
