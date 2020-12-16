@@ -31,23 +31,11 @@
 
 ### 📊 Profile stats
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=6" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=7" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!--[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/)-->
-
-<!-- <details>	
-  <summary><b></b></summary>
-</details>-->
-
 <!--
-[![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
-[![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
-[![Dev Badge](https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:sulthannk98@gmail.com)
 
 ### Hi there 👋 
 
