@@ -14,8 +14,8 @@
 <img align="right" height="200" width="300" src="dev.gif">
 
 ### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** <!--Mobile-App Development :iphone: |--> Full-Stack :zap: | Open-Source :fire:	
+-  **Working :** Front-End :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
