@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Sulthan Mohaideen 👨‍💻 </h1>
+<h1 align="center"> Hi, I'm Sulthan Mohaideen 👨‍💻 </h1>
 
 <h3 align="center">  Tech Savvy | Engineer </h3> <br>
 
@@ -26,10 +26,11 @@
 
 ### 📊 Profile stats
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=6" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <!--
 
 ### Hi there 👋 
