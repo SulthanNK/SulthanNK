@@ -1,5 +1,5 @@
 
-![Twitter Header](https://user-images.githubusercontent.com/32130871/142771908-d88d5abc-ac6f-466f-a4ba-ab6f065edd5e.png)
+![White Torn Paper LinkedIn Banner](https://user-images.githubusercontent.com/32130871/158026344-8046ac54-f096-4cbc-bd2c-941f714bb655.png)
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
@@ -25,7 +25,7 @@
 
 ### 📊 Profile stats
 
-<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8" />
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=8" />
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
