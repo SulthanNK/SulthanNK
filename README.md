@@ -1,10 +1,6 @@
 
 ![White Torn Paper LinkedIn Banner](https://user-images.githubusercontent.com/32130871/158026344-8046ac54-f096-4cbc-bd2c-941f714bb655.png)
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
-<a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
 
@@ -30,24 +26,19 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&theme=dracula" />
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+
+<p align="center">
+<a href="https://twitter.com/SulthanNK" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sulthan-Mohaideen" height="40" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/sulthannk" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sulthan-Mohaideen" height="40" width="40" />
+</a>
+<a href="https://www.instagram.com/sulthannk" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulthannk" height="40" width="40" />
+</a>
+</p>
+
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to meet you more!</b> :)</em></p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!--
-
-### Hi there 👋 
-
-**SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning the ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
