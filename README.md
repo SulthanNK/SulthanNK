@@ -29,13 +29,13 @@
 
 <p align="center">
 <a href="https://twitter.com/SulthanNK" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sulthan-Mohaideen" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sulthan-Mohaideen" height="35" width="35" />
 </a>
 <a href="https://www.linkedin.com/in/sulthannk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sulthan-Mohaideen" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sulthan-Mohaideen" height="35" width="35" />
 </a>
 <a href="https://www.instagram.com/sulthannk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulthannk" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulthannk" height="35" width="35" />
 </a>
 </p>
 
