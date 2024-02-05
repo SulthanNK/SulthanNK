@@ -21,7 +21,7 @@
   <img height="68em" src="https://profile-counter.glitch.me/{SulthanNK}/count.svg" />
 </p>
 
-### 📊 Profile stats
+<!-- ### 📊 Profile stats  -->
 
 <!-- <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
 ![VisitorCount](https://profile-counter.glitch.me/{SulthanNK}/count.svg)
@@ -29,9 +29,9 @@
   
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&theme=dracula" />-->
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=SulthanNK&theme=onedark-duo&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
-</p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=SulthanNK&theme=onedark-duo&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+</p>  -->
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
