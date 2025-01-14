@@ -32,10 +32,24 @@
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=SulthanNK&theme=onedark-duo&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
 </p>  -->
+
+<!-- ### 🔧 Tools in my belt
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,css,firebase,gcp,git,github,gitlab,html,js,kotlin,ktor,md,mongodb,netlify,nextjs,nodejs,notion,npm,postman,react,redux,sentry,tailwind,vscode&perline=5" />
+  </a>
+</p>  -->
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,linkedin,gmail,discord,instagram&perline=5" />
+  </a>
+</p>
+
+<!--  <p align="center">
 <a href="https://twitter.com/SulthanNK" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sulthan-Mohaideen" height="35" width="35" />
 </a>
@@ -45,7 +59,7 @@
 <a href="https://www.instagram.com/sulthannk" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulthannk" height="35" width="35" />
 </a>
-</p>
+</p>   -->
 
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to meet you more!</b> :)</em></p>
 
