@@ -1,22 +1,17 @@
-
-<!-- ![White Torn Paper LinkedIn Banner](https://user-images.githubusercontent.com/32130871/158026344-8046ac54-f096-4cbc-bd2c-941f714bb655.png) -->
-<img width="1600" height="400" alt="sulthannk_banner" src="https://github.com/user-attachments/assets/60c521aa-03b7-4602-84e5-31ce5af8d586" />
+<img alt="sulthannk_banner" src="sulthannk_banner.png" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- credits for gif https://giphy.com/izmiragency -->
-
-<!-- <img align="right" height="200" width="300" src="dev.gif">-->
 
 ### 🤔 About
--  **Working :** Developing mobile apps on React Native and sometimes flutter too.. :computer: | ah yeah when too bored I'll visit to NextJs for web 💁‍♂️
--  **Learning :**  Kotlin with Compose Multiplatform Maybe It helps me in native android 🤷‍♂️ | Open-Source Management :fire:	
--  **Hobbies :** Readin books :books: | Listening podcast :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee :sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him :innocent:
+- **Working:** Building mobile apps with React Native & sometimes Flutter too! 💻 If I get too bored, you’ll find me wandering around Next.js for some web magic. 😎  
+- **Learning:** Currently exploring Kotlin with Compose Multiplatform (maybe it’ll help my native Android game 🤷‍♂️). Also tinkering with open-source management! 🔥  
+- **Hobbies:** Reading books 📚 | Listening to podcasts 🎧 | Snapping surprise shots with my lens peek [here](https://www.instagram.com/the_casual_click) 📸  
+- **Fun Fact:** While most developers swear by coffee 😅, I’m loyal to tea! ❤️  
+- **Ask Me About:** Absolutely anything! I’m always happy to help. ✌️  
+- **Pronouns:** He/Him 🙂
 
 <p align="center">
-  <img height="500" width="850" src="mario_dev.gif">
+  <img height="450" width="850" src="mario_dev.gif">
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,12 +21,6 @@
 <p align="center">
   <img height="70em" src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </p>
-
-<!-- ### 📊 Profile stats  -->
-
-<!-- <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
-![VisitorCount](https://profile-counter.glitch.me/{SulthanNK}/count.svg)
--->
 
 <!--
 
@@ -45,9 +34,6 @@
   <img src="https://streak-stats.demolab.com?user=SulthanNK&theme=onedark-duo&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
 </p>
 
--->
-
-<!-- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔧 Tools in my belt
@@ -71,20 +57,6 @@
   <a href="https://www.instagram.com/sulthannk"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/></a>
 </p>
 
-<!--  <p align="center">
-<a href="https://twitter.com/SulthanNK" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sulthan-Mohaideen" height="35" width="35" />
-</a>
-<a href="https://www.linkedin.com/in/sulthannk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sulthan-Mohaideen" height="35" width="35" />
-</a>
-<a href="https://www.instagram.com/sulthannk" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulthannk" height="35" width="35" />
-</a>
-</p>   -->
-
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to meet you more!</b> :)</em></p>
-
-<!--  <img width="1000" src="pacman.gif"> -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
