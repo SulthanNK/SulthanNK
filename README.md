@@ -6,20 +6,20 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 <!-- <img align="right" height="200" width="300" src="dev.gif">-->
-<img align="right" height="250" width="450" src="coding_dev.gif">
 
 ### 🤔 About
--  **Working :** Front-End :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source Management :fire:	
--  **Hobbies :** Books :books: | Podcast :headphones:
+-  **Working :** Developing mobile apps on React Native and sometimes flutter too.. :computer: | ah yeah when too bored I'll visit to NextJs for web 💁‍♂️
+-  **Learning :**  Kotlin with Compose Multiplatform Maybe It helps me in native android 🤷‍♂️ | Open-Source Management :fire:	
+-  **Hobbies :** Readin books :books: | Listening podcast :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee :sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him :innocent:
--  
--  
+
+<p align="center">
+  <img height="500" width="850" src="mario_dev.gif">
+</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- <img src="fading_line.gif">  -->
 
 ### ✨ Visitors count
 
@@ -84,5 +84,7 @@
 </p>   -->
 
 <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi 👋, I'll be happy to meet you more!</b> :)</em></p>
+
+<!--  <img width="1000" src="pacman.gif"> -->
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
