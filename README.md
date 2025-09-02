@@ -6,8 +6,7 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 <!-- <img align="right" height="200" width="300" src="dev.gif">-->
-<img align="right" height="210" width="400" src="coding_dev.gif">
-
+<img align="right" height="250" width="450" src="coding_dev.gif">
 
 ### 🤔 About
 -  **Working :** Front-End :computer: | Cloud :cloud: 
@@ -15,10 +14,12 @@
 -  **Hobbies :** Books :books: | Podcast :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee :sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him :innocent: 
+-  **Pronouns :** He/Him :innocent:
+-  
+-  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="fading_line.gif">
+<!-- <img src="fading_line.gif">  -->
 
 ### ✨ Visitors count
 
