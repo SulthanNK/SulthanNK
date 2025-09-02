@@ -6,7 +6,7 @@
 <!-- credits for gif https://giphy.com/izmiragency -->
 
 <!-- <img align="right" height="200" width="300" src="dev.gif">-->
-<img align="right" height="210" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" height="210" width="400" src="coding_dev.gif">
 
 
 ### 🤔 About
@@ -18,7 +18,7 @@
 -  **Pronouns :** He/Him :innocent: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="fading_line.gif">
 
 ### ✨ Visitors count
 
