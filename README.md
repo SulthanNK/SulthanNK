@@ -2,22 +2,21 @@
 
 ---
 
-### 🤔 About
+### 🤔 About Me
 
-- **Working:** Building mobile apps with React Native & sometimes Flutter too! 💻 If I get too bored, you’ll find me wandering around Next.js for some web magic. 😎
+- **Working:** Building mobile apps with React Native & sometimes Flutter too! 💻 If I get too bored, you’ll find me wandering around with Next.js for some web magic. 😎
 - **Learning:** Currently exploring Kotlin with Compose Multi platform (maybe it’ll help my native Android game 🤷‍♂️). Also tinkering with open-source management! 🔥
 - **Hobbies:** Reading books 📚 | Listening to podcasts 🎧 | Snapping surprise shots with my lens peek [here](https://www.instagram.com/the_casual_click) 📸
 - **Fun Fact:** While most developers swear by coffee 😅, I’m loyal to tea! ❤️
 - **Ask Me About:** Absolutely anything! I’m always happy to help. ✌️
-- **Pronouns:** He/Him 🙂
 
 <p align="center">
-  <img height="450" width="850" src="mario_dev.gif">
+  <img height="400" width="800" src="mario_dev.gif">
 </p>
 
 ---
 
-### ✨ Visitors count
+### ✨ Visitors Count
 
 <p align="center">
   <img height="70em" src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
@@ -25,20 +24,26 @@
 
 ---
 
-### 📈 Some stats
+### 📈 Usual Stats
 
 <div align="center">
   <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&theme=dracula&rank_icon=percentile&show_icons=true&card_width=350" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&langs_count=6&layout=compact&card_width=350" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&theme=dracula&rank_icon=percentile&show_icons=true" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&langs_count=6&layout=compact&card_width=395" />
   </div>
 
-  <img height="195em" src="https://streak-stats.demolab.com?user=SulthanNK&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500"  />
+  <img height="195em" src="https://streak-stats.demolab.com?user=SulthanNK&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=465"  />
 </div>
 
 ---
 
-### 🔧 Tools in my belt
+### 📊 Holopin Board
+
+[![An image of @sulthannk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sulthannk)](https://holopin.io/@sulthannk)
+
+---
+
+### 🔧 My Tool Belt
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,9 +56,9 @@
 ### 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://twitter.com/SulthanNK"><img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/sulthannk"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/></a>
   <a href="mailto:sulthannk@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/></a>
+  <a href="https://x.com/SulthanNK"><img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X formally Twitter"/></a>
   <a href="https://www.instagram.com/sulthannk"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/></a>
 </p>
 
