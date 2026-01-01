@@ -24,6 +24,7 @@
 
 ---
 
+<!--
 ### 📈 Usual Stats
 
 <div align="center">
@@ -32,10 +33,13 @@
     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&langs_count=6&layout=compact&card_width=395" />
   </div>
 
-  <img height="195em" src="https://streak-stats.demolab.com?user=SulthanNK&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=465"  />
+  <img height="195em" src="https://streak-stats.demolab.com?user=SulthanNK&theme=dracula"  />
 </div>
 
+// commented stats section due to  public instance shutdown
+
 ---
+-->
 
 ### 📊 Holopin Board
 
