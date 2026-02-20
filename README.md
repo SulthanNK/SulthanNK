@@ -24,22 +24,20 @@
 
 ---
 
-<!--
+
 ### 📈 Usual Stats
 
 <div align="center">
   <div>
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=SulthanNK&theme=dracula&rank_icon=percentile&show_icons=true" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&langs_count=6&layout=compact&card_width=395" />
+    <img height="195em" src="https://github-stats-extended.vercel.app/api?username=SulthanNK&theme=dracula&rank_icon=percentile&show_icons=true" />
+    <img height="195em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SulthanNK&theme=dracula&langs_count=6&layout=compact&card_width=395" />
   </div>
 
   <img height="195em" src="https://streak-stats.demolab.com?user=SulthanNK&theme=dracula"  />
 </div>
 
-// commented stats section due to  public instance shutdown
-
 ---
--->
+
 
 ### 📊 Holopin Board
 
