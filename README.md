@@ -52,6 +52,9 @@ const sulthan: Engineer = {
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Production-Ready in React Native: Custom Expo Configs &amp; APK Optimization and Security](https://sulthannk.hashnode.dev/production-ready-in-react-native-custom-expo-configs-apk-optimization-and-security)
+- [Building High-Performance UIs in React Native: NativeWind, FlashList, and Reanimated](https://sulthannk.hashnode.dev/building-high-performance-uis-in-react-native)
+- [Bulletproof React Native Testing: Jest, Mocks, and Native Modules](https://sulthannk.hashnode.dev/bulletproof-react-native-testing-jest-mocks-and-native-modules)
 <!-- BLOG-POST-LIST:END -->
 
 ---
