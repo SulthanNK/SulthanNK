@@ -1,0 +1,27 @@
+# .github/workflows/update-readme.yml
+
+# Manual trigger only — run it from the Actions tab whenever you publish a new post. 
+
+# No schedule, so it never runs (or burns Action minutes) on its own.
+# Restricted to the "prd" branch: if you trigger it from any other branch,
+# the job is skipped instead of running.
+name: Update README
+
+on:
+  workflow_dispatch:          # trigger manually from the Actions tab after publishing
+
+permissions:
+  contents: write             # the action commits the rewritten README
+
+jobs:
+  update-blogs:
+    if: github.ref == 'refs/heads/prd'   # only runs when the selected branch is prd
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest 3 Hashnode posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sulthannk.hashnode.dev/rss.xml"
+          max_post_count: 3
